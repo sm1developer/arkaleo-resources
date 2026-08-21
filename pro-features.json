@@ -30,14 +30,6 @@
       "icon": "fa-solid fa-palette",
       "image": ""
     },
-
-    {
-      "title": "AI Private Vault",
-      "description": "A highly secure local-only space utilizing biometric authentication to store ultra-sensitive documents.",
-      "color": "#34c759",
-      "icon": "fa-solid fa-shield-halved",
-      "image": ""
-    },
     {
       "title": "P2P Local Sync",
       "description": "Peer-to-Peer Local Sync Access. Exclusive Pro feature for local synchronization across your devices.",
