@@ -1,0 +1,24 @@
+{
+  "sectionTitle": "Deep-Dive Feature Guides",
+  "sectionSubtitle": "Learn how Arkaleo pioneers on-device AI note taking and offline privacy on Android.",
+  "guides": [
+    {
+      "title": "On-Device AI Note Taking",
+      "description": "Local neural embeddings, instant semantic search, and automatic concept connections without cloud API keys.",
+      "link": "./features/on-device-ai/",
+      "linkText": "Read Feature Guide",
+      "color": "#818cf8",
+      "icon": "fa-solid fa-microchip",
+      "image": ""
+    },
+    {
+      "title": "Best Offline Notes App for Android",
+      "description": "Why true offline storage with zero telemetry, zero mandatory logins, and encrypted storage wins.",
+      "link": "./features/offline-privacy/",
+      "linkText": "Read Privacy Guide",
+      "color": "#4ade80",
+      "icon": "fa-solid fa-shield-halved",
+      "image": ""
+    }
+  ]
+}

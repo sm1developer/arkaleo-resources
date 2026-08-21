@@ -1,0 +1,14 @@
+{
+  "sectionTitle": "Explore the Interface",
+  "sectionSubtitle": "Designed with liquid glass themes, intuitive FAB menus, and robust language support to fit your workflow beautifully.",
+  "images": [
+    { "image": "1.jpg", "alt": "Main Interface & Notes" },
+    { "image": "2.jpg", "alt": "Folder & Category Layout" },
+    { "image": "3.jpg", "alt": "Markdown & Rich Text Editor" },
+    { "image": "4.jpg", "alt": "Stylus Drawing & Handwriting Canvas" },
+    { "image": "5.jpg", "alt": "Biometric Private Vault" },
+    { "image": "6.jpg", "alt": "Dark & Liquid Glass Themes" },
+    { "image": "7.jpg", "alt": "Offline Document Scanning & OCR" },
+    { "image": "8.jpg", "alt": "Backup & Export Tools" }
+  ]
+}
