@@ -1,0 +1,48 @@
+{
+  "sectionTitle": "Pro Experience Features",
+  "sectionSubtitle": "Go beyond limits with APPLORIA's professional tools.",
+  "features": [
+    {
+      "title": "Unlimited Assets",
+      "description": "Unlimited Notebooks, PDFs & Folders. Bypasses the free limit of 2 notebooks & 2 folders.",
+      "color": "#00f0ff",
+      "icon": "fa-solid fa-infinity",
+      "image": ""
+    },
+    {
+      "title": "AI Private Vault",
+      "description": "A highly secure local-only space utilizing biometric authentication to store ultra-sensitive documents.",
+      "color": "#34c759",
+      "icon": "fa-solid fa-shield-halved",
+      "image": ""
+    },
+    {
+      "title": "Advanced OCR",
+      "description": "Highest quality offline text recognition from images. Supports handwriting and messy fonts flawlessly.",
+      "color": "#f59e0b",
+      "icon": "fa-solid fa-file-lines",
+      "image": ""
+    },
+    {
+      "title": "Custom Themes",
+      "description": "Customize the entire application layout, font styles, and color palettes to match your creative flow.",
+      "color": "#ec4899",
+      "icon": "fa-solid fa-palette",
+      "image": ""
+    },
+    {
+      "title": "P2P Local Sync",
+      "description": "Peer-to-Peer Local Sync Access. Exclusive Pro feature for local synchronization across your devices.",
+      "color": "#818cf8",
+      "icon": "fa-solid fa-network-wired",
+      "image": ""
+    },
+    {
+      "title": "Unlimited Scans & Clips",
+      "description": "Unlimited Document Scans & Web Clips. Bypasses the free limit of 5 scans & 5 web clips.",
+      "color": "#10b981",
+      "icon": "fa-solid fa-camera-retro",
+      "image": ""
+    }
+  ]
+}
